@@ -1,0 +1,48 @@
+unique_id,name,type,ownership,maintenance,bid,address
+1,Simon Bolivar Memorial Park,Park,Federal,Federal,None,Virginia Ave. & C St. NW
+2,Artigas Statue Memorial Park,Park,Federal,Federal,None,Constitution Ave. & 18th St. NW
+3,Rawlins Park,Park,Federal,Federal,None,E St. & 18th St. NW
+4,Walt Whitman Park,Park,Federal,Federal,None,E St. & 19th St. NW
+5,Triangle (San Martin Statue) Park,Park,Federal,Federal,None,Virginia Ave. & 20th St NW
+6,Washington Circle,Park,Federal,Federal,None,2192 K St NW
+7,James Monroe Park,Park,Federal,Federal,Golden Triangle,I St. & 20th St. NW
+8,Triangle Opposite Monroe Park,Park,Federal,Federal,None,I St. & 21st St. NW
+9,Edward Murrow Park,Park,Federal,Federal,Golden Triangle,H St. & 18th St. NW
+10,Community Park,Park,Federal,Federal,None,H St. & 19th St. NW
+11,Farragut Square,Park,Federal,Federal,Golden Triangle,912 17th St NW
+12,Lafayette Square,Park,Federal,Federal,None,Pennsylvania Ave. & 16th St. NW
+13,Dupont Circle,Park,Federal,Federal,None,21 Dupont Cir NW
+14,Ukraine Independence Park,Park,Federal,Federal,None,22nd St. & P St. NW
+15,Duke Ellington Park,Park,District,District,Golden Triangle,New Hampshire Ave. & 21st St. NW
+16,Franklin Park,Park,Federal,District,Downtown,1332 I St. NW
+17,Longfellow Park,Park,Federal,Federal,Golden Triangle,M St. & 18th St. NW
+18,Nuns of the Battlefield Civil War Nurses Monument Park,Park,Federal,Federal,Golden Triangle,Rhode Island Ave. & M St. NW
+19,Scott Circle Park,Park,Federal,Federal,None,Scott Cir & 16th St. NW
+20,Webster Memorial Park,Park,Federal,Federal,None,Bataan St. & Rhode Island Ave. NW
+21,Thomas Circle Park,Park,Federal,Federal,Downtown,Thomas Cir & 14th St. NW
+22,McPherson Square,Park,Federal,Federal,Downtown,901 15th St. NW
+23,The Park at CityCenter,Park,Private,Private,Downtown,1098 New York Ave NW
+24,Pershing Square Park,Park,Federal,Federal,Downtown,Pennsylvania Ave. & 14th St. NW
+25,Burke Park,Park,Federal,Federal,Downtown,1144 Massachusetts Ave. NW
+26,Triangle Park,Park,Federal,Federal,Downtown,I St. & 12th St. NW
+27,Mt Vernon Square,Park,District,District,Downtown,801 K St. NW
+28,Chinatown Park,Park,Federal,Federal,Downtown,I St. & 6th St. NW
+29,Judiciary Square,Park,Federal,Federal,Downtown,450 F St. NW
+30,Triangle Opposite Judiciary Square,Park,Federal,Federal,Downtown,D St. & 6th St. NW
+31,Indiana Plaza Park,Park,Federal,Federal,Downtown,7th St. & Indiana Ave. NW
+32,FDR Memorial Stone,Park,Federal,Federal,Downtown,Pennsylvania Ave. & 9th St. NW
+33,Park Opposite Indiana Plaza,Park,Federal,Federal,Downtown,Pennsylvania Ave. & 7th St. NW
+34,Triangle - Mellon Fountain,Park,Federal,Federal,Downtown,401 Constitution Ave. NW
+35,Triangle Along Constitution Ave.,Park,Federal,Federal,None,301 Constitution Ave. NW
+36,Vincent R. Sembrotto Memorial Park,Park,Federal,Federal,Downtown,70 C St. NW
+37,National Japanese American Memorial Park,Park,Federal,Federal,Downtown,D St. & New Jersey Ave. NW
+38,Holodomor Memorial Park,Park,Federal,Federal,Downtown,1 Massachusetts Ave. NW
+39,Anniversary Park,Park,Private,Private,None,2130 F St. NW
+40,Witherspoon Park,Park,Federal,Federal,Golden Triangle,N St. & Connecticut St. NW
+41,University Yard,Park,Private,Private,None,2000-2030 H St. NW
+42,Monroe Court,Park,Private,Private,None,714 21st St. NW
+43,Veterans Memorial Park,Park,Private,Private,None,1298 18th St. NW
+44,Square 80 / Green Plaza,Park,Private,Private,None,2112 G St. NW
+45,Liberty Plaza,Other Public Space,Federal,Federal,None,618 17th St. NW
+46,Kogan Plaza,Other Public Space,Private,Private,None,2121 H St. NW
+47,Freedom Plaza,Other Public Space,Federal,Federal,Downtown,Pennsylvania Ave. & 13th St. NW
