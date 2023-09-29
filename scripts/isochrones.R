@@ -29,7 +29,7 @@ arc.write("C:/Users/IYOUNGS/Documents/ArcGIS/Projects/DCAP/DCAP.gdb/metro_iso_up
 
 
 
-parks <- st_read(dsn = "C:/Users/IYOUNGS/Documents/ArcGIS/Projects/DCAP/DCAP.gdb", layer = "parks_near_subarea_osm")
+parks <- st_read(dsn = "C:/Users/IYOUNGS/Documents/ArcGIS/Projects/DCAP/DCAP.gdb", layer = "parks_poly_FeaturetoPoint")
 
 parks_iso <- mb_isochrone(
   parks,
@@ -38,7 +38,7 @@ parks_iso <- mb_isochrone(
   id_column = "osm_id2"
 )
 
-arc.write("C:/Users/IYOUNGS/Documents/ArcGIS/Projects/DCAP/DCAP.gdb/parks_iso", parks_iso)
+arc.write("C:/Users/IYOUNGS/Documents/ArcGIS/Projects/DCAP/DCAP.gdb/parks_iso", parks_iso, overwrite = TRUE)
 
 
 
